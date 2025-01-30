@@ -48,7 +48,7 @@ Traditional test automation frameworks rely heavily on hardcoded test steps and 
 
 Moreover, by integrating AI in test case generation and bug detection, the framework helps in significantly reducing the manual effort involved in creating, executing, and maintaining tests. This leads to quicker test feedback loops, faster release cycles, and more reliable software quality.
 
-### Framework Components
+## Framework Components
 
 - **AI Models**: The backbone of the framework, AI models that predict failures, adapt locators, and generate test cases based on patterns.
   
@@ -58,7 +58,7 @@ Moreover, by integrating AI in test case generation and bug detection, the frame
 
 - **CI/CD Integration**: Ready for integration with your existing CI/CD pipeline via GitHub Actions, Jenkins, or Docker, allowing for seamless test execution in various environments.
 
-### Use Cases
+## Use Cases
 
 - **Regression Testing**: Automatically adapt to UI and API changes without requiring manual updates to test scripts.
   
@@ -68,7 +68,7 @@ Moreover, by integrating AI in test case generation and bug detection, the frame
 
 - **Automated Test Case Generation**: Generate high-quality test cases from real user interactions, covering scenarios that manual testers might miss.
 
-### Technology Stack
+## Technology Stack
 
 - **Test Automation**: Selenium, Playwright, PyAutoGUI
 - **AI/ML**: TensorFlow, Keras, OpenAI GPT, scikit-learn
@@ -78,7 +78,7 @@ Moreover, by integrating AI in test case generation and bug detection, the frame
 - **CI/CD**: Jenkins, GitHub Actions, Docker
 - **Programming Languages**: Python, JavaScript, Java
 
-### Benefits
+## Benefits
 
 - **Increased Efficiency**: Save time by automatically generating test cases and adapting to changes without needing manual updates.
 - **Improved Coverage**: AI-driven test case generation ensures that edge cases and real-user behavior are covered.
