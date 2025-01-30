@@ -55,6 +55,7 @@ docker==5.0.0
 PyGithub==1.55
 
 
-pip install git+https://github.com/applitools/eyes.sdk.python.git
+git+https://github.com/applitools/eyes.sdk.python.git
+
 
 
