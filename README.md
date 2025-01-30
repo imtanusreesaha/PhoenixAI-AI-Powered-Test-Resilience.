@@ -4,8 +4,6 @@ PhoenixAI is a cutting-edge, AI-driven test automation framework that empowers y
 
 ## Table of Contents
 
-## Table of Contents
-
 * [Introduction](#introduction)
 * [Key Features](#key-features)
 * [Innovative Aspects](#innovative-aspects)
