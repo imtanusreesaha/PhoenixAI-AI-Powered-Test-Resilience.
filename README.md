@@ -85,6 +85,11 @@ Moreover, by integrating AI in test case generation and bug detection, the frame
 - **Reduced Maintenance Effort**: Self-healing capabilities ensure that the tests continue to run even after application changes.
 - **Faster Debugging**: AI-powered bug fix suggestions help resolve failures more quickly, reducing downtime.
 
+## Contact
+
+For any questions or inquiries, feel free to reach out to me at [imtanusreesahaa@gmail.com](mailto:imtanusreesahaa@gmail.com).
+
+
 ---
 
 Get started with the framework by following the **Installation** section, or explore the code for more advanced use cases in the **Example** section.
