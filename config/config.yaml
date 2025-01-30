@@ -1,0 +1,50 @@
+# General Configuration
+base_url: "https://example.com"  # Base URL for the web application
+
+# WebDriver Settings
+webdriver:
+  browser: "chrome"  # Supported browsers could be 'chrome', 'firefox', etc.
+  headless: true  # Whether to run the browser in headless mode (true/false)
+  timeout: 30  # Default timeout for element search (in seconds)
+  driver_path: "/usr/lib/chromium-browser/chromedriver"  # Path to the WebDriver executable
+
+# Test Configuration
+test:
+  login:
+    username: "testuser"  # Username for login
+    password: "password123"  # Password for login
+  checkout:
+    item: "Laptop"
+    quantity: 1
+
+# Reporting Configuration
+reporting:
+  enable_html_report: true  # Whether to generate HTML reports
+  enable_json_report: false  # Whether to generate JSON reports
+  report_path: "reports/"
+
+# Logging Configuration
+logging:
+  level: "INFO"  # Log level: DEBUG, INFO, WARNING, ERROR, CRITICAL
+  log_file: "logs/test_log.log"  # Log file path
+  console_output: true  # Whether to print logs to console
+
+# Self-Healing Locator Settings
+self_healing_locator:
+  locators_file: "locators.json"  # Path to the locators JSON file
+
+# Email Settings (For Report Delivery, if needed)
+email:
+  smtp_server: "smtp.example.com"
+  smtp_port: 587
+  sender_email: "no-reply@example.com"
+  recipient_email: "recipient@example.com"
+  subject: "Automated Test Report"
+  body: "Please find the attached test report."
+
+# Environment Configuration
+environment:
+  staging:
+    url: "https://staging.example.com"
+  production:
+    url: "https://production.example.com"
