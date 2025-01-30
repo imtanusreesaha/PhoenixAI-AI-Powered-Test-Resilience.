@@ -51,8 +51,11 @@ Traditional test automation frameworks rely heavily on hardcoded test steps and 
 Moreover, by integrating AI in test case generation and bug detection, the framework helps in significantly reducing the manual effort involved in creating, executing, and maintaining tests. This leads to quicker test feedback loops, faster release cycles, and more reliable software quality.
 
 ## 🔥 Why This Stands Out?
+
 ✅ AI-powered self-healing—adapts dynamically to UI/API changes.
+
 ✅ CI/CD integration—automated test execution via GitHub Actions & Jenkins.
+
 ✅ Detailed logging & reporting—with Allure for easy debugging.
 
 ## Framework Components
