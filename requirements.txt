@@ -53,3 +53,6 @@ docker==5.0.0
 
 # For working with GitHub API (optional)
 PyGithub==1.55
+
+applitools.selenium==4.1.0
+
