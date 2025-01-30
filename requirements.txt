@@ -1,0 +1,55 @@
+# Selenium for browser automation
+selenium==4.1.0
+
+# Pytest for running test cases
+pytest==6.2.5
+
+# Requests for HTTP requests
+requests==2.26.0
+
+# TensorFlow and Keras for AI and ML capabilities
+tensorflow==2.8.0
+keras==2.8.0
+
+# scikit-learn for machine learning algorithms
+scikit-learn==1.0.2
+
+# OpenCV for computer vision
+opencv-python==4.5.5.64
+
+# Tesseract for OCR (Optical Character Recognition)
+pytesseract==0.3.8
+
+# Hugging Face Transformers for NLP (if using LLM like GPT-4)
+transformers==4.17.0
+
+# PyAutoGUI for UI automation (for AI-powered record and playback)
+pyautogui==0.9.53
+
+# Applitools for visual UI testing
+applitools.selenium==4.0.0
+
+# Swagger/OpenAPI for API testing
+openapi-spec-validator==0.3.2
+
+# JSON schema validation
+jsonschema==4.2.1
+
+# For anomaly detection and logging
+scipy==1.7.3
+matplotlib==3.5.1
+
+# For API testing with requests (if using RestAssured, equivalent in Python)
+requests==2.26.0
+
+# For contract testing (similar to Pact)
+pact-python==0.9.0
+
+# For logging and reporting
+allure-pytest==2.9.45
+
+# For CI/CD integration (like GitHub Actions, Jenkins, Docker)
+docker==5.0.0
+
+# For working with GitHub API (optional)
+PyGithub==1.55
