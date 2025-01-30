@@ -1,0 +1,49 @@
+# Python-related files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pdb
+*.egg-info/
+.eggs/
+dist/
+build/
+pip-wheel-metadata/
+
+# Environment-related files
+venv/
+.env/
+*.env
+.venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and reports
+logs/
+reports/
+
+# IDE/editor configurations (e.g., VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Configuration files (e.g., if you use any local configurations)
+*.yml
+*.yaml
+
+# Test output files
+*.json
+*.html
+
+# Selenium WebDriver related
+selenium-driver/
+
+# Operating system-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Docker-related files
+docker-compose.override.yml
+
+# Other generated files or directories
+*.log
